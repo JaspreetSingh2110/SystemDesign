@@ -7,4 +7,5 @@ add_executable(SystemDesign main.cpp
         ParkingLot/ParkingLot.cpp
         ParkingLot/ParkingLot.h
         main.cpp
+        ElevatorSystem/ElevatorSystem.h
 )

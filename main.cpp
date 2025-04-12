@@ -4,6 +4,7 @@
 #include <cstdint>
 
 #include "ParkingLot/ParkingLot.h"
+#include "ElevatorSystem/ElevatorSystem.h"
 
 void Test_LowLevelDesign(uint32_t &testCnt)
 {

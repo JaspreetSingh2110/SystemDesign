@@ -22,6 +22,8 @@ class Payment;
 class ParkingTicket;
 class Vehicle;
 
+/******************************************  Enums used in Parking lot design  ****************************************/
+
 enum PaymentStatus {
   UNKNOWN,
   PENDING,
@@ -46,7 +48,7 @@ enum ParkingSpotType {
   PS_MAX
 };
 
-/******************************************  Vehicle  *****************************************************************/
+/******************************************  Person  ******************************************************************/
 
 class Person {
   public:
