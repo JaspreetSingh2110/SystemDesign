@@ -11,8 +11,10 @@ This project implements following low level system design:
 * **Parking Lot**
 * **Elevator System**
 
+### Class diagrams can be found [here](https://github.com/JaspreetSingh2110/SystemDesign/tree/main/ClassDigrams) 
+
 ## Upcoming
-Others low level system design's implementation is in progress. It will be released soon.
+Others low level system design's implementation is in progress. It will be available soon.
 
 ## License
 This repository is released under the [MIT license](https://opensource.org/licenses/MIT). This means you are free to use this software in any personal, open-source or commercial projects.
