@@ -9,6 +9,7 @@ This project is created with aim to have implementation for commonly asked low l
 ## Contents
 This project implements following low level system design:
 * **Parking Lot**
+* **Elevator System**
 
 ## Upcoming
 Others low level system design's implementation is in progress. It will be released soon.
