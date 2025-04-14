@@ -14,6 +14,7 @@
 #include <list>
 #include <map>
 
+class Address;
 class Rack;
 class Librarian;
 class Member;
@@ -51,14 +52,14 @@ enum ReservationStatus {
 class Person {
   private:
   std::string name;
-  std::string address;
+  Address address;
   std::string phone;
   std::string email;
 };
 */
 /**********************************  * Person *  **********************************************************************/
 
-class Author {
+class Author : public Person {
   private:
   Person person;
   std::string country;
@@ -126,7 +127,6 @@ class LibraryCard {
   std::string id;
   uint32_t createdDate;
   uint32_t validUpto;
-  Member *member;
 
 public:
   bool IsValid();
