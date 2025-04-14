@@ -8,4 +8,5 @@ add_executable(SystemDesign main.cpp
         01_ParkingLot/ParkingLot.h
         main.cpp
         02_ElevatorSystem/ElevatorSystem.h
+        03_LibraryManagementSystem/LibraryManagementSystem.h
 )
