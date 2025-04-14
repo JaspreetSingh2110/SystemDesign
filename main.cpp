@@ -3,8 +3,8 @@
 #include <stdio.h>
 #include <cstdint>
 
-#include "ParkingLot/ParkingLot.h"
-#include "ElevatorSystem/ElevatorSystem.h"
+#include "01_ParkingLot/ParkingLot.h"
+#include "02_ElevatorSystem/ElevatorSystem.h"
 
 void Test_LowLevelDesign(uint32_t &testCnt)
 {

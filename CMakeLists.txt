@@ -4,8 +4,8 @@ project(SystemDesign)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(SystemDesign main.cpp
-        ParkingLot/ParkingLot.cpp
-        ParkingLot/ParkingLot.h
+        01_ParkingLot/ParkingLot.cpp
+        01_ParkingLot/ParkingLot.h
         main.cpp
-        ElevatorSystem/ElevatorSystem.h
+        02_ElevatorSystem/ElevatorSystem.h
 )
