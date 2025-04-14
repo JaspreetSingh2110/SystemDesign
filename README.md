@@ -10,6 +10,7 @@ This project is created with aim to have implementation for commonly asked low l
 This project implements following low level system design:
 * **Parking Lot**
 * **Elevator System**
+* **Library Management System**
 
 ### Class diagrams can be found [here](https://github.com/JaspreetSingh2110/SystemDesign/tree/main/ClassDigrams) 
 
