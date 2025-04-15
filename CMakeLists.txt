@@ -6,7 +6,7 @@ set(CMAKE_CXX_STANDARD 14)
 add_executable(SystemDesign main.cpp
         01_ParkingLot/ParkingLot.cpp
         01_ParkingLot/ParkingLot.h
-        main.cpp
         02_ElevatorSystem/ElevatorSystem.h
         03_LibraryManagementSystem/LibraryManagementSystem.h
+        04_AmazonLockerService/AmazonLockerService.h
 )
