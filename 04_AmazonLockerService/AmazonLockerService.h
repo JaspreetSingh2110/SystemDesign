@@ -105,7 +105,7 @@ class LockerLocation {
 /***********************  * Notification *  ***************************************************************************/
 
 //Send notification at each step of packet transit till delivery.
-class Notification {
+class AmazonLockerNotification {
   private:
   int notificationId;
   std::string content;

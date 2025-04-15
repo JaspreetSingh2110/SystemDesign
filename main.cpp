@@ -6,6 +6,7 @@
 #include "01_ParkingLot/ParkingLot.h"
 #include "02_ElevatorSystem/ElevatorSystem.h"
 #include "03_LibraryManagementSystem/LibraryManagementSystem.h"
+#include "04_AmazonLockerService/AmazonLockerService.h"
 
 void Test_LowLevelDesign(uint32_t &testCnt)
 {
