@@ -11,6 +11,7 @@ This project implements following low level system design:
 * **Parking Lot**
 * **Elevator System**
 * **Library Management System**
+* **Amazon Locker Service**
 
 ### Class diagrams can be found [here](https://github.com/JaspreetSingh2110/SystemDesign/tree/main/ClassDigrams) 
 
