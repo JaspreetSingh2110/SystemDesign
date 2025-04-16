@@ -9,4 +9,5 @@ add_executable(SystemDesign main.cpp
         02_ElevatorSystem/ElevatorSystem.h
         03_LibraryManagementSystem/LibraryManagementSystem.h
         04_AmazonLockerService/AmazonLockerService.h
+        05_VendingMachine/VendingMachine.h
 )

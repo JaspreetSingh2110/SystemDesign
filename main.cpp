@@ -3,10 +3,11 @@
 #include <stdio.h>
 #include <cstdint>
 
-#include "01_ParkingLot/ParkingLot.h"
-#include "02_ElevatorSystem/ElevatorSystem.h"
-#include "03_LibraryManagementSystem/LibraryManagementSystem.h"
-#include "04_AmazonLockerService/AmazonLockerService.h"
+#include "./01_ParkingLot/ParkingLot.h"
+#include "./02_ElevatorSystem/ElevatorSystem.h"
+#include "./03_LibraryManagementSystem/LibraryManagementSystem.h"
+#include "./04_AmazonLockerService/AmazonLockerService.h"
+#include "./05_VendingMachine/VendingMachine.h"
 
 void Test_LowLevelDesign(uint32_t &testCnt)
 {
