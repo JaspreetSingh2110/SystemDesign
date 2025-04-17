@@ -10,4 +10,5 @@ add_executable(SystemDesign main.cpp
         03_LibraryManagementSystem/LibraryManagementSystem.h
         04_AmazonLockerService/AmazonLockerService.h
         05_VendingMachine/VendingMachine.h
+        06_OnlineBlackJackGame/OnlineBlackJackGame.h
 )
