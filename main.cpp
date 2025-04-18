@@ -9,6 +9,7 @@
 #include "./04_AmazonLockerService/AmazonLockerService.h"
 #include "./05_VendingMachine/VendingMachine.h"
 #include "./06_OnlineBlackJackGame/OnlineBlackJackGame.h"
+#include "./07_MeetingScheduler/MeetingScheduler.h"
 
 int main()
 {

@@ -14,6 +14,7 @@ This project implements following low level system design:
 * **Amazon Locker Service**
 * **Vending Machine**
 * **Online Blackjack Game**
+* **Meeting Scheduler**
 
 ### Class diagrams can be found [here](https://github.com/JaspreetSingh2110/SystemDesign/tree/main/ClassDigrams) 
 

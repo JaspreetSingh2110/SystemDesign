@@ -11,4 +11,5 @@ add_executable(SystemDesign main.cpp
         04_AmazonLockerService/AmazonLockerService.h
         05_VendingMachine/VendingMachine.h
         06_OnlineBlackJackGame/OnlineBlackJackGame.h
+        07_MeetingScheduler/MeetingScheduler.h
 )
