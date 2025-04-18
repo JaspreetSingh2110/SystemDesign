@@ -12,4 +12,5 @@ add_executable(SystemDesign main.cpp
         05_VendingMachine/VendingMachine.h
         06_OnlineBlackJackGame/OnlineBlackJackGame.h
         07_MeetingScheduler/MeetingScheduler.h
+        08_MovieTicketBookingSystem/MovieTicketBookingSystem.h
 )

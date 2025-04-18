@@ -10,6 +10,7 @@
 #include "./05_VendingMachine/VendingMachine.h"
 #include "./06_OnlineBlackJackGame/OnlineBlackJackGame.h"
 #include "./07_MeetingScheduler/MeetingScheduler.h"
+#include "./08_MovieTicketBookingSystem/MovieTicketBookingSystem.h"
 
 int main()
 {
