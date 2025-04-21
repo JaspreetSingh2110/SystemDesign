@@ -16,6 +16,7 @@ This project implements following low level system design:
 * **Online Blackjack Game**
 * **Meeting Scheduler**
 * **Movie Ticket Booking System**
+* **Vehicle Rental System**
 
 ### Class diagrams can be found [here](https://github.com/JaspreetSingh2110/SystemDesign/tree/main/ClassDigrams) 
 
