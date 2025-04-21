@@ -17,6 +17,7 @@ This project implements following low level system design:
 * **Meeting Scheduler**
 * **Movie Ticket Booking System**
 * **Vehicle Rental System**
+* **ATM System**
 
 ### Class diagrams can be found [here](https://github.com/JaspreetSingh2110/SystemDesign/tree/main/ClassDigrams) 
 

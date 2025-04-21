@@ -12,6 +12,7 @@
 #include "07_MeetingScheduler/MeetingScheduler.h"
 #include "08_MovieTicketBookingSystem/MovieTicketBookingSystem.h"
 #include "09_VehicleRentalSystem/VehicleRentalSystem.h"
+#include "10_ATM_System/ATMSystem.h"
 
 int main()
 {
