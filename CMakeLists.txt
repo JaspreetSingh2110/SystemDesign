@@ -15,4 +15,5 @@ add_executable(SystemDesign main.cpp
         08_MovieTicketBookingSystem/MovieTicketBookingSystem.h
         09_VehicleRentalSystem/VehicleRentalSystem.h
         10_ATM_System/ATMSystem.h
+        11_OnlineChessGame/OnlineChessGame.h
 )
