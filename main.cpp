@@ -14,6 +14,7 @@
 #include "09_VehicleRentalSystem/VehicleRentalSystem.h"
 #include "10_ATM_System/ATMSystem.h"
 #include "11_OnlineChessGame/OnlineChessGame.h"
+#include "12_HotelManagementSystem/HotelManagementSystem.h"
 
 int main()
 {
