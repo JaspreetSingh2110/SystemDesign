@@ -314,8 +314,8 @@ class VRS_Catalog : public VRS_Search {
   std::vector<VRS_Vehicle*> SearchVehicleByModel(std::string model) override;
 };
 
-/**************************** *  * Car rental branch *  * *************************************************************/
-class CarRentalBranch {
+/**************************** *  * Vehicle rental branch *  * *********************************************************/
+class VehicleRentalBranch {
   private:
   std::string branchName;
   Address branchAddress;
@@ -325,14 +325,14 @@ public:
   std::vector<VRS_ParkingStall*> GetParkingStalls();
 };
 
-/**************************** *  * Car rental system *  * *************************************************************/
-class CarRentalSystem {
+/**************************** *  * Vehicle rental system *  * *********************************************************/
+class VehicleRentalSystem {
   private:
-  std::vector<CarRentalBranch*> carRentalBranches;
+  std::vector<VehicleRentalBranch*> carRentalBranches;
   VRS_Catalog catalog;
 
 public:
-  void AddCarRentalBranch(CarRentalBranch *branch);
+  void AddVehicleRentalBranch(VehicleRentalBranch *branch);
   void MakeReservation();
   void CancelReservation();
 };
