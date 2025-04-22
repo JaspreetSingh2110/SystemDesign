@@ -1,8 +1,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # System Design
-A place holder for design implementation in C++ for various low level system design interview questions.
-This project is created with aim to have implementation for commonly asked low level design questions in system design interviews.
+A place holder for low level design framework implementation in C++ for various low level system design interview questions.
+This project is created with aim to have low level design framework implementation for commonly asked low level design questions in system design interviews.
 
 ## Programming language: C++
 
