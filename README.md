@@ -19,6 +19,7 @@ This project implements following low level system design:
 * **Vehicle Rental System**
 * **ATM System**
 * **Online Chess Game**
+* **Hotel Management System**
 
 ### Class diagrams can be found [here](https://github.com/JaspreetSingh2110/SystemDesign/tree/main/ClassDigrams) 
 
