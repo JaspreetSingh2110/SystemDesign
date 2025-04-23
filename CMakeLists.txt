@@ -17,4 +17,5 @@ add_executable(SystemDesign main.cpp
         10_ATM_System/ATMSystem.h
         11_OnlineChessGame/OnlineChessGame.h
         12_HotelManagementSystem/HotelManagementSystem.h
+        13_AmazonOnlineShoppingSystem/AmazonOnlineShoppingSystem.h
 )
