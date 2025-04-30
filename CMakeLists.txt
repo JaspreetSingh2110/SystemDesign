@@ -19,4 +19,5 @@ add_executable(SystemDesign main.cpp
         12_HotelManagementSystem/HotelManagementSystem.h
         13_AmazonOnlineShoppingSystem/AmazonOnlineShoppingSystem.h
         14_StackOverflow/StackOverflow.h
+        15_RestaurantManagementSystem/RestaurantManagementSystem.h
 )

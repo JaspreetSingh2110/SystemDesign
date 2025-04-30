@@ -21,7 +21,8 @@ This project implements following low level system design:
 * **Online Chess Game**
 * **Hotel Management System**
 * **Amazon Online Shopping System**
-  * **Stack Overflow**
+* **Stack Overflow**
+* **Restaurant Management System**
 
 ### Class diagrams can be found [here](https://github.com/JaspreetSingh2110/SystemDesign/tree/main/ClassDigrams) 
 

@@ -17,6 +17,7 @@
 #include "12_HotelManagementSystem/HotelManagementSystem.h"
 #include "13_AmazonOnlineShoppingSystem/AmazonOnlineShoppingSystem.h"
 #include "14_StackOverflow/StackOverflow.h"
+#include "15_RestaurantManagementSystem/RestaurantManagementSystem.h"
 
 int main()
 {
