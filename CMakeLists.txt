@@ -20,4 +20,5 @@ add_executable(SystemDesign main.cpp
         13_AmazonOnlineShoppingSystem/AmazonOnlineShoppingSystem.h
         14_StackOverflow/StackOverflow.h
         15_RestaurantManagementSystem/RestaurantManagementSystem.h
+        18_JigsawPuzzle/JigsawPuzzle.h
 )

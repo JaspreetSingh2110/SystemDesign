@@ -18,6 +18,7 @@
 #include "13_AmazonOnlineShoppingSystem/AmazonOnlineShoppingSystem.h"
 #include "14_StackOverflow/StackOverflow.h"
 #include "15_RestaurantManagementSystem/RestaurantManagementSystem.h"
+#include "18_JigsawPuzzle/JigsawPuzzle.h"
 
 int main()
 {

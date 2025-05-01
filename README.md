@@ -23,6 +23,7 @@ This project implements following low level system design:
 * **Amazon Online Shopping System**
 * **Stack Overflow**
 * **Restaurant Management System**
+* **Jigsaw Puzzle**
 
 ### Class diagrams can be found [here](https://github.com/JaspreetSingh2110/SystemDesign/tree/main/ClassDigrams) 
 
